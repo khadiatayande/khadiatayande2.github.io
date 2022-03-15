@@ -42,7 +42,6 @@ body{
 }
 .vidéo{
    text-align: center;
-   
 }
 
 #nav ul{
@@ -65,8 +64,8 @@ a :hover{
    background-color: white;
 }
 footer{font-size: 40px;
-text-align: center;
-color:black;
+   text-align: center;
+color: black;
 margin-top: 220px;
 margin-bottom: 0px;
 }
