@@ -1,0 +1,72 @@
+h1{
+   font-size: 100pt;
+   text-align: center;
+   color: blue;
+   font-weight: bolder;
+   font-style: italic;
+   font-synthesis: style; 
+   text-transform: uppercase;
+   text-shadow: 5px 0 0 palevioletred;
+   font-family: "kanit",serif;
+   background: url(./asset/arriiere\ plan.jpg);
+
+
+}
+h3{
+   font-size: 40pt;
+   color: rgb(165, 28, 168);
+   font-weight: bold;
+   text-align: center;
+   
+}
+p{
+   font-size: 25px;
+   color: rgb(245, 240, 241);
+   font-weight: bold;
+   text-align: justify;
+   
+}
+ul{
+   font-size: 30pt;
+   color: rgb(165, 28, 168);
+   font-weight: bold;
+   text-align: center; 
+}
+.image{
+   text-align: center;
+}
+
+body{
+   font-family: "font-1", serif;
+   background: url(./asset/paysage.jpg);
+}
+.vidéo{
+   text-align: center;
+   
+}
+
+#nav ul{
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+}
+#nav li {
+   margin-left:  2px;
+}
+ul li a{
+   display: block;
+   float: left;
+   text-align: center;
+   padding: 5px;
+   border: 2px;
+}
+a :hover{
+   color: black;
+   background-color: white;
+}
+footer{font-size: 40px;
+text-align: center;
+color:black;
+margin-top: 220px;
+margin-bottom: 0px;
+}
